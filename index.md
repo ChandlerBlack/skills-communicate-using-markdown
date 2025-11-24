@@ -11,3 +11,11 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Step 4: Adding a Task List
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+
